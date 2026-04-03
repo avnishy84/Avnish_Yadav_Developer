@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://avnishy84.github.io/Avnish_Yadav_Developer/sitemap.xml
